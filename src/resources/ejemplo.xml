@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trabajadores>
+  <Trabajador id="1">
+    <Nombre>Juan</Nombre>
+    <PrimerApellido>Martinez</PrimerApellido>
+    <SegundoApellido>Fernandez</SegundoApellido>
+    <Categoria>Operador</Categoria>
+    <Empresa>TecnoProyectSL</Empresa>
+  </Trabajador>
+  <Trabajador id="8">
+    <Nombre>Pilar</Nombre>
+    <PrimerApellido>Molina</PrimerApellido>
+    <SegundoApellido>Vara</SegundoApellido>
+    <Categoria>Analista</Categoria>
+    <Empresa>TecnoProyectSL</Empresa>
+  </Trabajador>
+  <Trabajador id="48">
+    <Nombre>Elisa</Nombre>
+    <PrimerApellido>Fidalgo</PrimerApellido>
+    <SegundoApellido>Martínez</SegundoApellido>
+    <Categoria>Coordinador</Categoria>
+    <Empresa>TecnoProyectSL</Empresa>
+  </Trabajador>
+  <Trabajador id="70">
+    <Nombre>Soledad</Nombre>
+    <PrimerApellido>Arias</PrimerApellido>
+    <SegundoApellido>Diez</SegundoApellido>
+    <Categoria>Administrativo</Categoria>
+    <Empresa>TecnoProyectSL</Empresa>
+  </Trabajador>
+  <Trabajador id="95">
+    <Nombre>Marisa</Nombre>
+    <PrimerApellido>Chen</PrimerApellido>
+    <SegundoApellido>Cedron</SegundoApellido>
+    <Categoria>Ordenanza</Categoria>
+    <Empresa>TecnoProyectSL</Empresa>
+  </Trabajador>
+</Trabajadores>

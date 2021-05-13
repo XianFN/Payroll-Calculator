@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuentas>
+  <cuenta id="3">
+    <Nombre>Germán</Nombre>
+    <PrimerApellido>Aller</PrimerApellido>
+    <SegundoApellido>Bariales</SegundoApellido>
+    <Empresa>TecnoLeonSL</Empresa>
+    <CodigoDeCuentaErroneo>32569523016210165156</CodigoDeCuentaErroneo>
+    <NuevoIBAN>RO4932569523056210165156</NuevoIBAN>
+  </cuenta>
+  <cuenta id="29">
+    <Nombre>Federico</Nombre>
+    <PrimerApellido>Candanedo</PrimerApellido>
+    <SegundoApellido>Portugues</SegundoApellido>
+    <Empresa>TecnoProyectSL</Empresa>
+    <CodigoDeCuentaErroneo>34698752714600549103</CodigoDeCuentaErroneo>
+    <NuevoIBAN>ES5934698752704600549103</NuevoIBAN>
+  </cuenta>
+  <cuenta id="45">
+    <Nombre>Carmen</Nombre>
+    <PrimerApellido>Diez</PrimerApellido>
+    <SegundoApellido>López</SegundoApellido>
+    <Empresa>Asoftware</Empresa>
+    <CodigoDeCuentaErroneo>51651681961210156510</CodigoDeCuentaErroneo>
+    <NuevoIBAN>ES6551651681991210156510</NuevoIBAN>
+  </cuenta>
+  <cuenta id="64">
+    <Nombre>Abel</Nombre>
+    <PrimerApellido>González</PrimerApellido>
+    <SegundoApellido>Río</SegundoApellido>
+    <Empresa>TecnoProyectSL</Empresa>
+    <CodigoDeCuentaErroneo>44875664127231145789</CodigoDeCuentaErroneo>
+    <NuevoIBAN>ES1844875664157231145789</NuevoIBAN>
+  </cuenta>
+  <cuenta id="77">
+    <Nombre>Pilar</Nombre>
+    <PrimerApellido>Molina</PrimerApellido>
+    <SegundoApellido>Vara</SegundoApellido>
+    <Empresa>TecnoProyectSL</Empresa>
+    <CodigoDeCuentaErroneo>20960056163231500000</CodigoDeCuentaErroneo>
+    <NuevoIBAN>ES2220960056133231500000</NuevoIBAN>
+  </cuenta>
+  <cuenta id="79">
+    <Nombre>Miguel Ángel</Nombre>
+    <PrimerApellido>Morala</PrimerApellido>
+    <SegundoApellido>Bernal</SegundoApellido>
+    <Empresa>TecnoProyectSL</Empresa>
+    <CodigoDeCuentaErroneo>23658965214585223202</CodigoDeCuentaErroneo>
+    <NuevoIBAN>ES6223658965274585223202</NuevoIBAN>
+  </cuenta>
+  <cuenta id="82">
+    <Nombre>Paulina</Nombre>
+    <PrimerApellido>Orejas</PrimerApellido>
+    <SegundoApellido>Díez</SegundoApellido>
+    <Empresa>PBlankSA</Empresa>
+    <CodigoDeCuentaErroneo>20012541100023365233</CodigoDeCuentaErroneo>
+    <NuevoIBAN>FR3820012541150023365233</NuevoIBAN>
+  </cuenta>
+  <cuenta id="85">
+    <Nombre>Cecilia</Nombre>
+    <PrimerApellido>Perez</PrimerApellido>
+    <SegundoApellido>García</SegundoApellido>
+    <Empresa>Asoftware</Empresa>
+    <CodigoDeCuentaErroneo>95485212315481010000</CodigoDeCuentaErroneo>
+    <NuevoIBAN>ES0295485212335481010000</NuevoIBAN>
+  </cuenta>
+  <cuenta id="98">
+    <Nombre>Encarnación</Nombre>
+    <PrimerApellido>Sánchez</PrimerApellido>
+    <SegundoApellido>Herrero</SegundoApellido>
+    <Empresa>Asoftware</Empresa>
+    <CodigoDeCuentaErroneo>51556584121251000254</CodigoDeCuentaErroneo>
+    <NuevoIBAN>IE6851556584221251000254</NuevoIBAN>
+  </cuenta>
+  <cuenta id="100">
+    <Nombre>Herminia</Nombre>
+    <PrimerApellido>Santín</PrimerApellido>
+    <SegundoApellido>Fernández</SegundoApellido>
+    <Empresa>TecnoLeonSL</Empresa>
+    <CodigoDeCuentaErroneo>62541122001110105611</CodigoDeCuentaErroneo>
+    <NuevoIBAN>LT9362541122421110105611</NuevoIBAN>
+  </cuenta>
+  <cuenta id="101">
+    <Nombre>Sonia</Nombre>
+    <PrimerApellido>Sevillano</PrimerApellido>
+    <SegundoApellido>Gomez</SegundoApellido>
+    <Empresa>APhonSA</Empresa>
+    <CodigoDeCuentaErroneo>65645150005168448896</CodigoDeCuentaErroneo>
+    <NuevoIBAN>AT8365645150865168448896</NuevoIBAN>
+  </cuenta>
+  <cuenta id="102">
+    <Nombre>Generoso</Nombre>
+    <PrimerApellido>Soto</PrimerApellido>
+    <SegundoApellido>Sánchez</SegundoApellido>
+    <Empresa>TecnoLeonSL</Empresa>
+    <CodigoDeCuentaErroneo>26551681817651415636</CodigoDeCuentaErroneo>
+    <NuevoIBAN>IT3526551681807651415636</NuevoIBAN>
+  </cuenta>
+</cuentas>
